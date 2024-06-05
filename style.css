@@ -1,0 +1,13 @@
+.carousel-item{
+    width: 400px;
+}
+.d-block{
+    margin-left: 115%;
+}
+
+.card{
+    width: 350px;
+}
+.modelos{
+    display: flex;
+}
